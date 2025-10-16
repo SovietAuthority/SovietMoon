@@ -29,6 +29,11 @@
 		/obj/item/clothing/gloves/color/yellow = 2,
 		/obj/item/weldingtool/hugetank = 2,
 		/obj/item/clothing/gloves/color/yellow = 1,
+		/obj/item/airlock_painter = 5,
+		/obj/item/pipe_painter = 5,
+		/obj/item/airlock_painter/decal = 5,
+		/obj/item/airlock_painter/decal/tile = 5,
+		/obj/item/rcl = 5,
 	)
 	refill_canister = /obj/item/vending_refill/youtool
 	default_price = PRICE_REALLY_CHEAP
